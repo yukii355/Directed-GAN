@@ -1,0 +1,22 @@
+
+
+・This directed-GAN has usually 4 .py files (if add evaluater.py, 5 py files)
+
+
+
+<about .py files>
+
+・net_mnist.py:main Directed-GAN model(Generator and Discriminator).
+
+
+・train_directed_gan.py:
+
+
+
+
+・updater.py:
+
+
+
+
+・visualize.py:

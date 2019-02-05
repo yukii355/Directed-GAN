@@ -1,0 +1,11 @@
+
+
+
+・chainer_Directed_DCGAN2(MNIST)の時と違って、
+CIFAR-10ではGeneratorとDiscriminatorの設計を変えないとうまくいかなかった.
+
+そこで、この２つの設計に関してはchainer本家？(chainer/examples/dcgan/net.py)にあるものを流用させてもらった.
+githubは以下.
+
+
+https://github.com/chainer/chainer/blob/master/examples/dcgan/net.py
