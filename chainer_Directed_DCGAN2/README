@@ -9,14 +9,14 @@
 ・net_mnist.py:main Directed-GAN model(Generator and Discriminator).
 
 
-・train_directed_gan.py:
+・train_directed_gan.py:main training
 
 
 
 
-・updater.py:
+・updater.py:updater
 
 
 
 
-・visualize.py:
+・visualize.py:visualizer
