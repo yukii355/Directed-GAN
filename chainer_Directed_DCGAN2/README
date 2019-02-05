@@ -12,11 +12,7 @@
 ・train_directed_gan.py:main training
 
 
-
-
 ・updater.py:updater
-
-
 
 
 ・visualize.py:visualizer
